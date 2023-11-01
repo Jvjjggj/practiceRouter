@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.header-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 10%;
+}
+.unorder-list {
+  list-style-type: none;
+  display: flex;
+}
+.img-logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.link {
+  margin: 5px;
+}
+.img-logo {
+  height: 30px;
+}
+.wave-head {
+  font-size: medium;
+  margin: 5px;
+}
